@@ -1,0 +1,6 @@
+C:\VS\EmpHierachy\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+C:\VS\EmpHierachy\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+C:\VS\EmpHierachy\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+C:\VS\EmpHierachy\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+C:\VS\EmpHierachy\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+C:\VS\EmpHierachy\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb
